@@ -34,11 +34,11 @@ How predictions are returned instantly after upload
   
 - 🌟 UI Screenshots
   
-📌 Home Page
+ 📌 Home Page
 
 - Homepage with “Eye Disease Detection” title
 
-📤 Upload & Predict 
+ 📤 Upload & Predict 
 
 - Upload interface with retina image input
 
