@@ -27,4 +27,4 @@
 🖼️ The uploaded image (from /static/)
 
 🔹 Rendered At: http://127.0.0.1:5000/upload and /predict
-🔹 Routed By: @app.route('/upload') and @app.route('/predict', methods=['POST'])
+
