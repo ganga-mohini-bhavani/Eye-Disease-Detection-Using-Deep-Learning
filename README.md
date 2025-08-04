@@ -25,17 +25,29 @@ This project is developed as part of a SmartBridge-guided AI Fundamentals intern
 ## 📁 Folder Structure
 
 eye_disease_project/
-├── app.py 
+
+├── app.py
+
 ├── evgg.h5 # Trained VGG19 model
+
 ├── static(uploaded images)
+
 │ └── sample_eye.jpg
+
 ├── templates
+
 │ ├── index.html
+
 │ └── predict.html
-├── eye_disease_dataset 
+
+├── eye_disease_dataset
+
 │  └── cataract
+
 │  └── diabetic_retinopathy
+
 │  └── glaucoma
+
 │  └── normal
 
 📷 Sample Usage
