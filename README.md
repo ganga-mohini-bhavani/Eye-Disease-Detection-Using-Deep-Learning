@@ -52,21 +52,21 @@ eye_disease_project/
 
 📷 Sample Usage
 
-Train or load the model (evgg.h5)
+- Train or load the model (evgg.h5)
 
 Run the Flask app:
 
-python app.py
+- python app.py
 
-Open your browser and go to http://127.0.0.1:5000
+- Open your browser and go to http://127.0.0.1:5000
 
-Navigate to the prediction page and upload an retinal image
+- Navigate to the prediction page and upload an retinal image
 
 ✅ The system will display the predicted eye condition — Cataract, Diabetic Retinopathy, Glaucoma, or Normal — instantly after uploading the image.
 
 📌 Notes
 
-The dataset was sourced from the Eye Disease Detection dataset available on Kaggle
+- The dataset was sourced from the Eye Disease Detection dataset available on Kaggle
 
-This project demonstrates the power of transfer learning in medical imaging applications
+- This project demonstrates the power of transfer learning in medical imaging applications
 
