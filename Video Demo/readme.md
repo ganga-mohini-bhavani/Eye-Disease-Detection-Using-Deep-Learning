@@ -1,8 +1,8 @@
 🎥 Video Demo
 
-Watch a complete walkthrough of the Eye Disease Detection Web Application powered by deep learning and transfer learning.
+- Watch a complete walkthrough of the Eye Disease Detection Web Application powered by deep learning and transfer learning.
 
-This video demonstrates:
+- This video demonstrates:
 
 🏠 The home interface of the web app
 
