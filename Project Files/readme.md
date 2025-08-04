@@ -1,4 +1,4 @@
-The app.py file is the heart of your web application. 
+✅ The app.py file is the heart of your web application. 
 
 1. Loads the trained deep learning model (evgg.h5).
 
