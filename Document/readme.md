@@ -85,7 +85,7 @@ Step 5 — Deployment
 
 -Add more disease categories for comprehensive detection.
 
- -Conclusion
+ 10.Conclusion
 -Successfully developed a deep learning model for detecting multiple eye diseases.
 
 -Transfer learning with VGG19 provided high accuracy with minimal training data.
